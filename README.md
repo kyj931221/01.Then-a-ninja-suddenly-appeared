@@ -10,13 +10,13 @@
 
 ### 프로젝트 소개
 
-> 인터넷 밈을 이용한 간단한 아케이드 게임입니다.  
-> 첫 게임을 만든 게임 개발자가 게임을 업로드 하는데 갑자기 닌자가 나타나서 방해를 합니다.  
-> 닌자의 공격을 피해서 게임 업로드를 완료하세요!  
+> 인터넷 밈을 이용한 간단한 아케이드 게임입니다.<br>
+> 첫 게임을 만든 게임 개발자가 게임을 업로드 하는데 갑자기 닌자가 나타나서 방해를 합니다.<br>
+> 닌자의 공격을 피해서 게임 업로드를 완료하세요!<br>
 
-> It's a simple arcade game using Internet memes.  
-> The game developer who made the first game uploads the game, but suddenly a ninja appears and interferes.  
-> Complete the game upload to avoid Ninja's attacks!  
+> It's a simple arcade game using Internet memes.<br>
+> The game developer who made the first game uploads the game, but suddenly a ninja appears and interferes.<br>
+> Complete the game upload to avoid Ninja's attacks!<br>
 
 ### YouTube 영상
 
