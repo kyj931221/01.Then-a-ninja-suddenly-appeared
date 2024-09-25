@@ -1,4 +1,4 @@
-# Breadcrumbs01.Then-a-ninja-suddenly-appeared
+# 01.Then-a-ninja-suddenly-appeared
 [Android / 그때 갑자기 닌자가 나타났다.]
 
 ## 목차
