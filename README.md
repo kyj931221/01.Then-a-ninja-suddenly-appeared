@@ -23,7 +23,6 @@
 (https://youtu.be/Glp0o2QQ7OE?si=GOd5mqAj3PB2k4y4)
 
 ### APP Download
-[Google Play / Android 그때 갑자기 닌자가 나타났다.]
-(https://play.google.com/store/apps/details?id=com.kopo.Dodge)
+[Google Play / Android 그때 갑자기 닌자가 나타났다.](https://play.google.com/store/apps/details?id=com.kopo.Dodge)
 
 ### 프로젝트 상세 내용
